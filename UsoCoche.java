@@ -45,7 +45,7 @@ public class UsoCoche {
        
        System.out.println(miCamioneta.DimeTraccionAutomatica());
        
-       miCamioneta.ConfigurarClimatizador(JOptionPane.showInputDialog("Tiene traccion climatizador?"));
+       miCamioneta.ConfigurarClimatizador(JOptionPane.showInputDialog("Tiene climatizador?"));
        
        System.out.println(miCamioneta.DimeClimatizador());
        
